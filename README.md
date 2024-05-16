@@ -5,12 +5,12 @@
 bun install
 ```
 
-## How to build
+## How to build?
 ```sh
 bun run build
 ```
 
-## How to test
+## How to test?
 ```sh
 bun run test
 ```
