@@ -1,1 +1,1 @@
-# bun-vite-jest-template
+# bun-vite-vitest-template
